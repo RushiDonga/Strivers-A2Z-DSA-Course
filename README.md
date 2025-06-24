@@ -11,7 +11,6 @@ Striver's A2Z DSA Sheet is a well-structured and comprehensive roadmap for maste
 ## 💻 What You'll Find in This Repo
 
 - ✅ Topic-wise structured folders
-- ✅ Python solutions with comments for clarity
 - ✅ Ongoing updates as I progress through the sheet
 - ✅ Clean and readable code
 
